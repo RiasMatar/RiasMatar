@@ -11,5 +11,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://i.pinimg.com/originals/01/25/d8/0125d815145694520bf3307165f3a534.gif">
+  <img align="right" alt="Rafa-yoda" src="https://pa1.narvii.com/6479/306907886b33595ee17da7c8341386e2450cd711_128.gif">
 </div>
+<div>![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)</div>
